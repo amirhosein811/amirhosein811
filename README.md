@@ -1,5 +1,14 @@
 # 💫 About Me:
-🔭 I’m currently working on CRM WEB, Android and IOS Applications<br>
+🔭 Backend-focused software engineer with experience building business systems, CRM platforms, REST APIs and internal tools.<br>
+
+## Focus Areas
+- Backend Architecture
+- REST API Development
+- Database Design
+- Security & Authentication
+- Performance Optimization
+
+Currently building a modular CRM platform.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amirhosein_r50) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amirhosein-ranjkesh-989a75236) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amir.hrk811@gmail.com) 
